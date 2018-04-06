@@ -1,0 +1,13 @@
+﻿  actionDecision.cpp
+  environment.cpp
+  state.cpp
+  test.cpp
+  userSet.cpp
+userSet.cpp(67): warning C4018: '<': signed/unsigned mismatch
+  win.cpp
+  Generating code
+  194 of 194 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  mahjongAI.vcxproj -> E:\internship\Mahjong\mahjongAI\Release\mahjongAI.exe
